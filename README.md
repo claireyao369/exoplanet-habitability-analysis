@@ -1,2 +1,5 @@
-# exoplanet-habitability-analysis
-A code-based analyzer that scores exoplanets for potential habitability using real space data. 
+# Exoplanet Habitability Score Analyzer
+
+**Field**: Astrobiology, Planetary Science, Computational Modeling
+**Tools**: Python, Pandas, Matplotlib(maybe), NumPy(maybe)
+**Why it Matters**: I was always intrigued by Enrico Fermi's famous paradox, which states possibilities that extraterrestrial life exist but we are unable to find them. By using real scientific data and specific calculations and data processing, this project will reveal how rare Earth's environment might be, and why life as we know it could be so precious.
