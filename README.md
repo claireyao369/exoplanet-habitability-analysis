@@ -74,7 +74,7 @@ Each planet will be given a score from 0 to 1 based on how closely it matches Ea
 
 - NASA Exoplanet Archive: https://exoplanetarchive.ipac.caltech.edu/cgi-bin/TblView/nph-tblView?app=ExoTbls&config=PSCompPars
 - Earth Similarity Index (Schulze-Makuch et al.)
-- Human Biology Limits in Space: [Add paper later]
+- The Human Body in Space (NASA): https://www.nasa.gov/humans-in-space/the-human-body-in-space/
 
 ---
 
